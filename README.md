@@ -1,26 +1,26 @@
 # GLOBOX
 ![GLOBOX](https://github.com/HugoDataAnalyst/GloBox/blob/main/Images/globox.jpg)
 
-#Welcome to DA106 - Your First Mastery Project on GitHub
+# Welcome to DA106 - Your First Mastery Project on GitHub
 
 This was my first project, a stepping stone to embark on my first Analysis Project and test my knowledge and skills acquired throughout the 6 months of study in MasterSchool.
 
-##Project Overview - Meet GloBox
+## Project Overview - Meet GloBox
 
 GloBox is a dynamic online marketplace with a unique focus on curating high-quality, distinctive products from across the globe. They're currently engaged in an A/B test experiment aimed at enhancing their homepage, and your expertise is sought after!
 
-##My Mission
+## My Mission
 
 My mission, is to leverage SQL, Spreadsheets, and Tableau to provide concrete insights.
 
 The pivotal question is this: 
 - Should GloBox roll out this new user experience to its entire user base?
 
-##Audience
+## Audience
 
 This project is designed for both technical and non-technical audiences. We value a diverse perspective to make the most informed decisions.
 
-##Key Considerations
+## Key Considerations
 
 Here are some crucial factors to keep in mind:
 

@@ -1,7 +1,7 @@
 # GLOBOX
 ![GLOBOX](https://github.com/HugoDataAnalyst/GloBox/blob/main/Images/globox.jpg)
 
-# Welcome to DA106 - Your First Mastery Project on GitHub
+# Welcome to my very first analysis
 
 This was my first project, a stepping stone to embark on my first Analysis Project and test my knowledge and skills acquired throughout the 6 months of study in MasterSchool.
 

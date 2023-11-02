@@ -8,6 +8,7 @@ This was my first project, a stepping stone to embark on my first Analysis Proje
 ## Project Overview - Meet GloBox
 
 GloBox is a dynamic online marketplace with a unique focus on curating high-quality, distinctive products from across the globe. They're currently engaged in an A/B test experiment aimed at enhancing their homepage, and your expertise is sought after!
+
 Note: This is a ficticious company with ficticious data.
 ## My Mission
 
